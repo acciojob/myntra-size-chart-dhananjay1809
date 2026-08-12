@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+table{
+	border:1px solid black ; padding:1px ; width:600px ; background-color: 
+}
+th,
+td {
+    border: 1px solid black;
+}
+.part{
+	background-color:rosybrown
+}
+.chest{
+	background-color:pink;
+}
+.waist{
+	background-color:lightpink;
+}
+.sleeve{
+	background-color:grey;
+}
